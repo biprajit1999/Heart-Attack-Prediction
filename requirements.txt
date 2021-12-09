@@ -1,6 +1,5 @@
 anaconda-client==1.7.2
 anaconda-navigator==2.0.4
-anyio_1617783319350/work/dist
 appdirs==1.4.4
 applaunchservices==0.2.1
 argh==0.26.2
